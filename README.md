@@ -12,10 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=adibte&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adibte&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://komarev.com/ghpvc/?username=adibte&icon=10&color=1)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adibte&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
