@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : HyperStore introduction and panel using Vite + TS + React<br>👯 I’m looking to collaborate on : Front-End opportunities<br>🤝 I’m looking for help with: any design ideas and good structured projects<br>🌱 I’m currently learning: planning to learn more about TS and NextJS<br>💬 Ask me about: Front-end cores, UI/UX Designing tips, simple back-end issues<br>⚡ Fun fact: AI
+🔭 I’m currently working on : HyperStore introduction and panel using NextJS>👯 I’m looking to collaborate on : Front-End opportunities<br>🤝 I’m looking for help with: any design ideas and good structured projects<br>🌱 I’m currently learning: planning to learn more about TS and NextJS<br>💬 Ask me about: Front-end cores, UI/UX Designing tips, simple back-end issues<br>⚡ Fun fact: AI
 
 
 ## 🌐 Socials:
